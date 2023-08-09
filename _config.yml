@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hxR2VSsAAAAJ&hl=zh-CN&authuser=2"
-  email            : "jianhao.wu@link.cuhk.edu.hk"
+  email            : #"jianhao.wu@link.cuhk.edu.hk"
   researchgate     : "https://www.researchgate.net/profile/Jianhao-Wu-3"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jianhao-wu/"
   orcid            : "https://orcid.org/0009-0000-7431-7885"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  harvard ads      : "https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0000-7431-7885&sort=date+desc"
 
 # Reading Files
 include:
