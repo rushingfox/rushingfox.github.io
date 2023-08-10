@@ -15,4 +15,3 @@ My office this term is in Room 313, 3/F, Science Centre North Block.
 # Basic Information
 
 Lecturer: [Dr. Lin Lap Ming](https://www.phy.cuhk.edu.hk/people/teaching/lmlin.html)
-
