@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of UGEB 2411A Astronomy – A Short Introduction"
+title: "Teaching Assistant@CUHK of UGEB 2411A Astronomy – A Short Introduction"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
@@ -13,6 +13,6 @@ UGEB 2411A Astronomy – A Short Introduction is a university general education 
 My office this term is in Room 313, 3/F, Science Centre North Block. My consultation hour is TBA.
 Separate appointment with me is also available. You are welcome to talk about physics with me!
 
-# Basic Information of UGEB 2411A
+# Additional Information of UGEB 2411A
 
 Lecturer: [Dr. Lin Lap Ming](https://www.phy.cuhk.edu.hk/people/teaching/lmlin.html)
