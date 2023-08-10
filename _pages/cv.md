@@ -18,7 +18,7 @@ Education
 Skills
 ======
 * Language
-  * Mandarin Chinese (Native), English(IELTS 7)
+  * Mandarin Chinese (Native), English (IELTS 7)
 * Coding
   * Coding Languages: C++, Python, C#, Swift, Latex
   * Coding Tools: Git, VSCode, WSL(Ubuntu), Overleaf
