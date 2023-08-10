@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Computer Science BEng degree holder, Physics MSc degree holder.
+Computer Science BEng degree holder@[WHU](https://en.whu.edu.cn/), Physics MSc degree holder@[CUHK](https://www.cuhk.edu.hk).
 
-Currently 1st year MPhil-PhD program(MPhil stream) student at CUHK, focusing on astrophysics and cosmology.
+Starting from 2023 August, I am a 1st year MPhil-PhD program (MPhil stream) student at CUHK, focusing on astrophysics and cosmology.
