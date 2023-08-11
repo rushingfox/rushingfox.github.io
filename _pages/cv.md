@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 It is a brief CV. Please email me({% author.email %}) for the full-version CV.
+
+{% include base_path %}
 
 Education
 ======
