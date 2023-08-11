@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a Computer Science BEng degree holder@[WHU](https://en.whu.edu.cn/), a Physics MSc degree holder@[CUHK](https://www.cuhk.edu.hk).
 
 Starting from 2023 August, I am a 1st year MPhil-PhD program (MPhil stream) student at CUHK, focusing on astrophysics and cosmology.
@@ -15,5 +16,4 @@ Starting from 2023 August, I am a 1st year MPhil-PhD program (MPhil stream) stud
 # Contact me
 
 <jianhao.wu@link.cuhk.edu.hk>
-
 <jianhao.wu@whu.edu.cn>
