@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-It is a brief CV. Please email me({% author.email %}) for the full-version CV.
+It is a brief CV. Please email me for the full-version CV.
 
 Education
 ======
