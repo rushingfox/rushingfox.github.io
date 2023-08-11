@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Jianhao!"
+title: "Jianhao-CS to Physics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
