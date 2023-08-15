@@ -11,16 +11,24 @@ It is a brief CV. Please email me for the full-version CV.
 
 Education
 ======
-* Bachelor of Engineering in *Computer Science and Technology*, College of Computer Science, Wuhan University, 2022
-* Master of Science in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2023
 * Master of Philosophy in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2025 (expected)
+* Master of Science in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2023
+* Bachelor of Engineering in *Computer Science and Technology*, College of Computer Science, Wuhan University, 2022
 
-Experience
+Training Experience
 ======
-* Summer Camp, Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences, 2021 July
-* Research Assistant, [Astrophysics center of Wuhan University](http://202.114.78.174/astro/en/about/intro.php), Wuhan University, 2022 July to 2022 October
-* CSST Summer School of Galaxy Sciences, The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2023 July
 * Summer School in Particle Physics, Tsung-Dao Lee Institute, Shanghai Jiao Tong University, 2023 July
+* CSST Summer School of Galaxy Sciences, The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2023 July
+* Summer Camp, Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences, 2021 July
+
+Awards and Fellowships
+======
+* Master of Philosophy Postgraduate Studentship (Taken)
+  * 2023-2025, given by The Chinese University of Hong Kong
+* Finland Scholarship (Declined)
+  * 2023-2025, given by University of Helsinki
+* University of L'Aquila Master student scholarship (Declined)
+  * 2022, given by University of L'Aquila
 
 Skills
 ======
