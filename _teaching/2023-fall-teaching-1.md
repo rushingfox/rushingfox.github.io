@@ -10,8 +10,10 @@ location: "HKSAR"
 
 UGEB 2411A Astronomy – A Short Introduction is a university general education course, focusing on basic astronomy knowledge.
 
+My consultation hour is 13.30-14.15&14.30-15.15 on Wednesday. My office this semester is Room 313 of Science Center North Block.
+
 Separate appointment with me is also available. You are welcome to talk about physics with me!
 
-# Additional Information of UGEB 2411A
+# Some more information on UGEB 2411A
 
 Lecturer: [Dr. Lin Lap Ming](https://www.phy.cuhk.edu.hk/people/teaching/lmlin.html)
