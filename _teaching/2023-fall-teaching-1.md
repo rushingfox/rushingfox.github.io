@@ -16,4 +16,4 @@ Separate appointment with me is also available. You are welcome to talk about ph
 
 # Some more information on UGEB 2411A
 
-Lecturer: [Dr. Lin Lap Ming](https://www.phy.cuhk.edu.hk/people/teaching/lmlin.html)
+Teaching Staff: [Dr. Lin Lap Ming](https://newww.phy.cuhk.edu.hk/teaching_staff/lin-lap-ming)
