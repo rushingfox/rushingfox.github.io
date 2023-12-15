@@ -15,7 +15,15 @@ Education
 * Master of Science in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2023
 * Bachelor of Engineering in *Computer Science and Technology*, College of Computer Science, Wuhan University, 2022
 
-Training Experience
+Talks & Posters
+======
+* [Cosmic-ray electrons and the magnetic field of the North Polar Spur](https://www.phy.cuhk.edu.hk/events/conf2023/abstract/Jianhao_Wu.html) on [International Conference on Resolving Galaxy Ecosystems Across All Scales](https://www.phy.cuhk.edu.hk/events/conf2023/), The Chinese University of Hong Kong, 2023 December
+
+Published on [*Astronomy & Astrophysics*](https://doi.org/10.1051/0004-6361/202245401)
+Preprint:[arXiv:2212.04306](https://arxiv.org/abs/2212.04306)
+Slides could be found at:
+
+Training experiences (Summer School or Conference attendance)
 ======
 * Summer School in Particle Physics, Tsung-Dao Lee Institute, Shanghai Jiao Tong University, 2023 July
 * CSST Summer School of Galaxy Sciences, The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2023 July
