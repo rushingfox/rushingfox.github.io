@@ -7,7 +7,6 @@ venue: "The Chinese University of Hong Kong, Department of Physics"
 date: 2024-01-01
 location: "HKSAR"
 ---
-
 UGEB 2411B Astronomy – A Short Introduction is a university general education course, focusing on basic astronomy knowledge.
 
 My consultation hour is 15.30-16.15&16.30-17.15 on Wednesday. My office this semester is Room 313 of Science Center North Block.
