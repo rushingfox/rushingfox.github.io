@@ -29,6 +29,8 @@ Talks & Posters
 
 Training experiences (Summer School or Conference attendance)
 ======
+* [International Symposium on Cosmology and Particle Astrophysics (CosPA 2023)](https://www.phy.cuhk.edu.hk/CosPA2023/index.php), Department of Physics and Institute of Theoretical Physics, The Chinese University of Hong Kong, 2023 November
+* [Multimessenger Astronomy: Bridging Transients, Lensing, and Dark Matter (Cosmic Frontiers)](https://www.phy.cuhk.edu.hk/events/multimessenger-astronomy2023/), Department of Physics, The Chinese University of Hong Kong, 2023 November
 * Summer School in Particle Physics, Tsung-Dao Lee Institute, Shanghai Jiao Tong University, 2023 July
 * CSST Summer School of Galaxy Sciences, The Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University, 2023 July
 * Summer Camp, Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences, 2021 July

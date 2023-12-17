@@ -3,7 +3,7 @@ title: "International Conference on Resolving Galaxy Ecosystems Across All Scale
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/2023-12-11-Talks and posters-1
-venue: "The Chinese University of Hong Kong, Department of Physics"
+venue: "The Chinese University of Hong Kong, Department of Physics and Institute of Theoretical Physics"
 date: 2023-12-11
 location: "New Territories, Hong Kong"
 ---
