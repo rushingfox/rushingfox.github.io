@@ -8,4 +8,4 @@ date: 2024-07-30
 location: "Macao SAR"
 ---
 
-This talk is to introduce my current project on [2024 Joint Annual Conference of Physical Societies in Guangdong-Hong Kong-Macao Greater Bay Area](https://yga2024.scimeeting.cn/en/web/index/21674_), Macao SAR, 2024 July.
+This talk is to introduce my current project about dark matter simulation for a modified early universe model on [2024 Joint Annual Conference of Physical Societies in Guangdong-Hong Kong-Macao Greater Bay Area](https://yga2024.scimeeting.cn/en/web/index/21674_), Macao SAR, 2024 July.
