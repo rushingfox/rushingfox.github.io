@@ -38,6 +38,8 @@ Training experiences (Summer School or Conference attendance)
 
 Awards and Fellowships
 ======
+* Best Presentation Award of CosPA Symposium 2024
+  * 2024, given by Asia-Pacific Organization of Cosmology and Particle-Astrophysics
 * Master of Philosophy Postgraduate Studentship (Taken)
   * 2023-2025, given by The Chinese University of Hong Kong
 * CUHK MSc in Physics **Excellent Performance Award** in the academic year 2022-2023
