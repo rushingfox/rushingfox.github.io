@@ -29,6 +29,7 @@ Talks & Posters
 
 Training experiences (Summer School or Conference attendance)
 ======
+* [Summer School in Protoplanetary Disk and Planet Formation](https://indico.ihep.ac.cn/event/22148/), KIAA, Peking Univ. & Astro Dept., Tsinghua Univ. & CCAST, 2024 July
 * [International Symposium on Cosmology and Particle Astrophysics (CosPA 2023)](https://www.phy.cuhk.edu.hk/CosPA2023/index.php), Department of Physics and Institute of Theoretical Physics, The Chinese University of Hong Kong, 2023 November
 * [Multimessenger Astronomy: Bridging Transients, Lensing, and Dark Matter (Cosmic Frontiers)](https://www.phy.cuhk.edu.hk/events/multimessenger-astronomy2023/), Department of Physics, The Chinese University of Hong Kong, 2023 November
 * Summer School in Particle Physics, Tsung-Dao Lee Institute, Shanghai Jiao Tong University, 2023 July
