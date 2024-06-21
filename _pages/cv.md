@@ -23,7 +23,7 @@ Publications
 
 Talks & Posters
 ======
-  <ul>{% for post in site.talks | reverse %}
+  <ul>{% for post in site.talks | sort: 'date' | reverse %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
