@@ -49,6 +49,12 @@ Awards and Fellowships
 * University of L'Aquila Master student scholarship (Declined)
   * 2022, given by University of L'Aquila
 
+Teaching Experiences
+======
+  <ul>{% for post in site.teaching | sort: 'date' %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Language
