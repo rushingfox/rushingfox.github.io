@@ -52,7 +52,7 @@ Awards and Fellowships
 Teaching Experiences
 ======
   <ul>{% for post in site.teaching | sort: 'date' %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Skills
