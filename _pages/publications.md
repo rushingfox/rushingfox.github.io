@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 To get the full list, you could also find my publications from the below approaches:  
 For astronomers: [Harvard ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0000-7431-7885&sort=date+desc)  
 For high energy physicsists: [INSPIRE HEP](https://inspirehep.net/authors/2685932)  
@@ -12,10 +18,10 @@ Generally, [Google Scholar](https://scholar.google.com/citations?user=hxR2VSsAAA
 
 2023
 ======
-<p style="color: black; font-weight: bold; font-size: 20px; line-height: 1.2;">
+<p style="color: black; font-weight: bold; font-size: 20px; line-height: 0.8;">
   Cosmic-ray electrons and the magnetic field of the North Polar Spur
 </p>
-<p style="line-height: 1.2;font-size: 15px;">
+<p style="line-height: 0.8;font-size: 15px;">
   Mou, G., <strong><span style="color: blue;">Wu, J.</span></strong> and Sofue, Y.
 </p>
 <a style="text-decoration: none;font-size: 15px;" href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3</a>
