@@ -41,9 +41,9 @@ Awards and Fellowships
 
 Teaching Experiences
 ======
-* 2023 Fall Term: Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
-* 2024 Spring Term: Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
-* 2024 Fall Term: Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
+* Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2023 Fall
+* Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2024 Spring
+* Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2024 Fall
 
 Skills
 ======
