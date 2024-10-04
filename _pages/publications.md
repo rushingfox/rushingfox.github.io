@@ -12,6 +12,10 @@ Generally, [Google Scholar](https://scholar.google.com/citations?user=hxR2VSsAAA
 
 2023
 ======
-<p style="color: black; font-weight: bold; font-size: 20px;">Cosmic-ray electrons and the magnetic field of the North Polar Spur</p>
-Mou, G., <strong><span style="color: blue;font-size: 15px;">Wu, J.</span></strong> and Sofue, Y.
+<p style="color: black; font-weight: bold; font-size: 20px; line-height: 1.2;">
+  Cosmic-ray electrons and the magnetic field of the North Polar Spur
+</p>
+<p style="line-height: 1.2;font-size: 15px;">
+  Mou, G., <strong><span style="color: blue;">Wu, J.</span></strong> and Sofue, Y.
+</p>
 <a style="text-decoration: none;font-size: 15px;" href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3</a>
