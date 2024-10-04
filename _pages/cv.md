@@ -51,9 +51,8 @@ Awards and Fellowships
 
 Teaching Experiences
 ======
-  <ul>{% for post in site.teaching | sort: 'date' %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
+  * Duration: three semesters (2023 fall, 2024 spring and 2024 fall)
 
 Skills
 ======
