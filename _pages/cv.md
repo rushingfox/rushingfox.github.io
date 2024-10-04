@@ -7,25 +7,17 @@ redirect_from:
   - /resume
 ---
 
+
+
 It is a brief CV. Please email me for the full-version CV.
+
+For the publications and presentations, you could directly click the corressponding pages from the navigitor.
 
 Education
 ======
 * Master of Philosophy in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2025 (expected)
 * Master of Science in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2023
 * Bachelor of Engineering in *Computer Science and Technology*, College of Computer Science, Wuhan University, 2022
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Talks & Posters
-======
-  <ul>{% for post in site.talks | sort: 'date' %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Training experiences (Summer School or Conference attendance)
 ======
@@ -51,8 +43,9 @@ Awards and Fellowships
 
 Teaching Experiences
 ======
-* Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
-  * Duration: three semesters (2023 fall, 2024 spring and 2024 fall)
+* 2023 Fall Term: Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
+* 2024 Spring Term: Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
+* 2024 Fall Term: Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction
 
 Skills
 ======
