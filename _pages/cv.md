@@ -7,11 +7,9 @@ redirect_from:
   - /resume
 ---
 
-
-
 It is a brief CV. Please email me for the full-version CV.
 
-For the publications and presentations, you could directly click the corressponding pages from the navigitor.
+For the [publications](https://rushingfox.github.io/publications/) and [presentations](https://rushingfox.github.io/talks/), you could directly click the corressponding pages from the navigitor.
 
 Education
 ======
