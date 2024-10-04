@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 
 I am a Computer Science BEng degree holder@[WHU](https://en.whu.edu.cn/), a Physics MSc degree holder@[CUHK](https://www.cuhk.edu.hk).
 
