@@ -9,8 +9,8 @@ For astronomers: [Harvard ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A00
 For high energy physicsists: [INSPIRE HEP](https://inspirehep.net/authors/2685932)  
 Generally, [Google Scholar](https://scholar.google.com/citations?user=hxR2VSsAAAAJ&hl=zh-CN&authuser=2) and [ORCID](https://orcid.org/0009-0000-7431-7885) are also available.
 
-2024
-======
+## 2024
+
 <p style="color: black; font-weight: bold; font-size: 20px; line-height: 1.2;">
   Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum
 </p>
@@ -19,8 +19,8 @@ Generally, [Google Scholar](https://scholar.google.com/citations?user=hxR2VSsAAA
 </p>
 <a style="font-size: 15px; font-style: italic;">In prep.</a>
 
-2023
-======
+## 2023
+
 <p style="color: black; font-weight: bold; font-size: 20px; line-height: 1.2;">
   Cosmic-ray electrons and the magnetic field of the North Polar Spur
 </p>
