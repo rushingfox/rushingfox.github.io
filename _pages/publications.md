@@ -13,10 +13,10 @@ To get the full list, you could also find my publications from the below approac
 
 <h3>Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum</h3>
 - <span> <strong><span style="color: blue;">Wu, Jianhao</span></strong> and Chan, Tsang Keung. </span>
-- <a style="font-style: italic;">In prep.</a>
+- <a>In prep.</a>
 
 ## 2023
 
 <h3>Cosmic-ray electrons and the magnetic field of the North Polar Spur</h3>
 - <span> Mou, Guobin, <strong><span style="color: blue;">Wu, Jianhao</span></strong> and Sofue, Yoshiaki. </span>
-- <a style="font-style: italic;" href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]</a>
+- <a href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]</a>
