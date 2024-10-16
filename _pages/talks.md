@@ -7,6 +7,14 @@ author_profile: true
 
 <h2>2024</h2>
 
+<h3><a href="https://yga2024.scimeeting.cn/en/web/index/21674_">2024 Joint Annual Conference of Physical Societies in Guangdong-HK-Macao Greater Bay Area</a></h3>
+<p style="line-height: 1.2;font-size: 15px;">
+  <span style="color: blue;">Poster Presentation</span>
+  <span style="color: black;">: Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum</span>
+</p>
+<a style="font-size: 15px;">Based on project: In prep.</a>
+
+
 <p style="color: black; font-weight: bold; font-size: 20px; line-height: 1.2;">
   <a href="https://yga2024.scimeeting.cn/en/web/index/21674_">2024 Joint Annual Conference of Physical Societies in Guangdong-HK-Macao Greater Bay Area</a>
 </p>
