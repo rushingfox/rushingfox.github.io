@@ -50,4 +50,5 @@ Skills
   * Mandarin Chinese (Native), English (IELTS 7.5)
 * Coding
   * Coding Languages: C++, Python, C#, Swift, Latex
-  * Coding Tools: Git, VSCode, WSL(Ubuntu), Overleaf
+  * Coding Tools: Git, Linux, Slurm, Overleaf, VSCode
+  * Cosmology Codes: MUSIC(Cosmology Initial Condition generation), SWIFT(Hydrodynamical Simulation Code), VELOCIraptor(halo finder), HBTplus(halo finder), SOAP(post processor for halo finder)
