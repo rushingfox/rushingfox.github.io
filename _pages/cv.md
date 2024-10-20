@@ -51,4 +51,5 @@ Skills
 * Coding
   * Coding Languages: C++, Python, C#, Swift, Latex
   * Coding Tools: Git, Linux, Slurm, Overleaf, VSCode
-  * Cosmology Codes: MUSIC(Cosmology Initial Condition generation), SWIFT(Hydrodynamical Simulation Code), VELOCIraptor(halo finder), HBTplus(halo finder), SOAP(post processor for halo finder)
+  * Cosmology Codes: MUSIC(Cosmology Initial Condition generation), SWIFT(Cosmological Simulation Code), VELOCIraptor(halo finder), HBTplus(halo finder), SOAP(post processor for halo finder)
+  * Astronomy Codes: PLUTO(Astrophysical Simulation Code), RADMC3D(Radiative Transfer Code)
