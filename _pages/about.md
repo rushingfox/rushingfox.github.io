@@ -14,7 +14,7 @@ Starting from 2023 August, I became an MPhil-PhD program (MPhil stream) [student
 
 I am interested in the intersection between astrophysics and fundemental physics, and currently working on <span style="color: blue; font-weight: bold;">dark matter halo simulation for modified early universe model</span>.
 
-## Currently looking forward to 2025 Fall PhD position in cosmology.
+## *Currently looking forward to 2025 Fall PhD position in cosmology.*
 <h3>Standardized Tests</h3>
 - GRE Subject Physics **940**/990
 - IELTS Academic **7.5**
