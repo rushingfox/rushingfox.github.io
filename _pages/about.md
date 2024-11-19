@@ -17,7 +17,7 @@ I am interested in the intersection between astrophysics and fundemental physics
 ## *Currently looking for 2025 Fall PhD position in cosmology:*
 
 <h3>Standardized Tests</h3>
-- GRE Subject Physics **940**/990 (87%)
+- GRE Subject Physics **940**/990 (**87%** in percentile)
 - IELTS Academic **7.5**
 <h3>Interested research topics</h3>
 - Structure Formation/Dark Matter Halo/Dark Energy Model
