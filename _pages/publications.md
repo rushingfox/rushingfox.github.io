@@ -14,6 +14,8 @@ To get the full list, you could also find my publications from the below approac
 <h3>Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum</h3>
 - <span> <strong><span style="color: blue;">Wu, Jianhao</span></strong> and Chan, Tsang Keung. </span>
 - <a>In prep.</a>
+- <a href="https://rushingfox.github.io/files/BT_ZoomIn_intro.pdf">See slides here</a>
+
 
 ## 2023
 
