@@ -11,7 +11,7 @@ To get the full list, you could also find my publications from the below approac
 
 ## 2024
 
-<h3>Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum</h3>
+<h3>Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</h3>
 - <span> <strong><span style="color: blue;">Jianhao Wu</span></strong>, Tsang Keung Chan, Victor J. Forouhar Moreno.</span>
 - <a href="https://arxiv.org/abs/2412.16072">[arxiv:2412.16072]</a>
 
