@@ -12,13 +12,12 @@ To get the full list, you could also find my publications from the below approac
 ## 2024
 
 <h3>Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum</h3>
-- <span> <strong><span style="color: blue;">Wu, Jianhao</span></strong> and Chan, Tsang Keung. </span>
-- <a>In prep.</a>
-- <a href="https://rushingfox.github.io/files/BT_ZoomIn_intro.pdf">See slides here</a>
+- <span> <strong><span style="color: blue;">Jianhao Wu</span></strong>, Tsang Keung Chan, Victor J. Forouhar Moreno.</span>
+- <a href="https://arxiv.org/abs/2412.16072">[arxiv:2412.16072]</a>
 
 
 ## 2023
 
 <h3>Cosmic-ray electrons and the magnetic field of the North Polar Spur</h3>
-- <span> Mou, Guobin, <strong><span style="color: blue;">Wu, Jianhao</span></strong> and Sofue, Yoshiaki. </span>
+- <span> Guobin Mou, <strong><span style="color: blue;">Jianhao Wu</span></strong>, Yoshiaki Sofue. </span>
 - <a href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]</a>
