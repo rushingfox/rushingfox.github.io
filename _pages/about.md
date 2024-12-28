@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a 2nd year MPhil [student @CUHK Physics](https://newww.phy.cuhk.edu.hk/postgraduate/wu-jianhao), under the supervision of [Prof. Tsang Keung Chan](https://newww.phy.cuhk.edu.hk/teaching_staff/chan-tsang-keung). I am interested in the intersection between astrophysics and fundemental physics, and currently working on <span style="font-weight: bold;">Milky-Way host size dark matter halo substructure simulation for a small scale enhanced primordial power spectrum</span> ([arxiv:2412.16072](https://arxiv.org/abs/2412.16072)).
 
-I got my Physics MSc degree also [@CUHK](https://www.cuhk.edu.hk) in 2023, winning *CUHK MSc in Physics Excellent Performance Award*. It complemented my knowledge gaps as a non-physics student, by covering Quantum Mechanics, Statistical Mechanics, Computational Physics, and Cosmology.
+I got my Physics MSc degree also [@CUHK](https://www.cuhk.edu.hk) in 2023, winning *CUHK MSc in Physics Excellent Performance Award*. It complemented my knowledge gaps as a non-physics student, by covering Quantum Mechanics, Statistical Mechanics, Computational Physics, Cosmology, and etc.
 
 I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, where I determined the physical origin of <span style="font-weight: bold;">North Polar Spur, a bright structure on radio band within Milky-Way, by synchrotron radiation calculation</span> ([Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]](https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html)). My supervisor and co-author was [Prof. Guobin Mou](https://astrowhu.github.io/guobinmou).
 
