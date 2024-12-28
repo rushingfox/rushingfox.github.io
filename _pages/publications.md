@@ -15,7 +15,7 @@ However, while the above websites need time to update, the <strong><span style="
 
 <h3>Constraining blue tilted primordial power spectrum with nearby dwarf galaxies</h3>
 - <span> <strong><span style="color: blue;">Jianhao Wu</span></strong>, Tsang Keung Chan.</span>
-- <a>In prep.</a>
+- <a style="color: black;">In prep.</a>
 
 ## 2024
 
