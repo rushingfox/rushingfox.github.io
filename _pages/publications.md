@@ -28,4 +28,4 @@ However, while the above websites need time to update, the <strong><span style="
 
 <h3>Cosmic-ray electrons and the magnetic field of the North Polar Spur</h3>
 - <span> Guobin Mou, <strong><span style="color: blue;">Jianhao Wu</span></strong>, Yoshiaki Sofue. </span>
-- <a href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]</a>
+- <a href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3, 2023 [arxiv:2212.04306]</a>
