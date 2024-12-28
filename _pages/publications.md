@@ -11,6 +11,12 @@ author_profile: true
 
 However, while the above websites need time to update, the <strong><span style="color: red;">most up-to-date list is below</span></strong>:
 
+## 2025
+
+<h3>Constraining blue tilted primordial power spectrum with nearby dwarf galaxies</h3>
+- <span> <strong><span style="color: blue;">Jianhao Wu</span></strong>, Tsang Keung Chan.</span>
+- <a>[In prep.]</a>
+
 ## 2024
 
 <h3>Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</h3>
