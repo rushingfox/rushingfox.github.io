@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science BEng degree holder@[WHU](https://en.whu.edu.cn/), a Physics MSc degree holder@[CUHK](https://www.cuhk.edu.hk).
+I am currently a 2nd year MPhil [student @CUHK Physics](https://newww.phy.cuhk.edu.hk/postgraduate/wu-jianhao), under the supervision of [Prof. Tsang Keung Chan](https://newww.phy.cuhk.edu.hk/teaching_staff/chan-tsang-keung). I am interested in the intersection between astrophysics and fundemental physics, and currently working on <span style="color: blue; font-weight: bold;">Milky-Way host size dark matter halo substructure simulation for a small scale enhanced primordial power spectrum</span> ([arxiv:2412.16072](https://arxiv.org/abs/2412.16072)).
 
-Starting from 2023 August, I became an MPhil-PhD program (MPhil stream) [student @CUHK](https://newww.phy.cuhk.edu.hk/postgraduate/wu-jianhao), under the supervision of [Prof. Tsang Keung Chan](https://newww.phy.cuhk.edu.hk/teaching_staff/chan-tsang-keung), with a specialization on [Astrophysics & Fundamental Physics](https://newww.phy.cuhk.edu.hk/research-areas/astrophysics-fundamental-physics).
+I got my Physics MSc degree also [@CUHK](https://www.cuhk.edu.hk) in 2023, winning *CUHK MSc in Physics Excellent Performance Award*. The 8 courses I completed are all with A(4.0/4.0) or A-(3.7/4.0), covering Quantum Mechanics, Statistical Mechanics, Computational Physics, and Cosmology.
 
-I am interested in the intersection between astrophysics and fundemental physics, and currently working on <span style="color: blue; font-weight: bold;">dark matter halo simulation for modified early universe model</span>.
+I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, where I determined the physical origin of <span style="color: blue; font-weight: bold;">North Polar Spur, a bright structure on radio band within Milky-Way, by synchrotron radiation calculation</span> ([Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]](https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html)). My supervisor and co-author was [Prof. Guobin Mou](https://astrowhu.github.io/guobinmou).
+
 
 ## *Currently looking for 2025 Fall PhD position in cosmology:*
 
