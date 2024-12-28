@@ -14,6 +14,7 @@ I got my Physics MSc degree also [@CUHK](https://www.cuhk.edu.hk) in 2023, winni
 
 I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, where I determined the physical origin of <span style="font-weight: bold;">North Polar Spur, a bright structure on radio band within Milky-Way, by synchrotron radiation calculation</span> ([Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]](https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html)). My supervisor and co-author was [Prof. Guobin Mou](https://astrowhu.github.io/guobinmou).
 
+<br><br><br>
 
 ## *Currently looking for 2025 Fall PhD position in cosmology:*
 
