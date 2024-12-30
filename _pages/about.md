@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 2nd year MPhil [student @CUHK Physics](https://newww.phy.cuhk.edu.hk/postgraduate/wu-jianhao), under the supervision of [Prof. Tsang Keung Chan](https://newww.phy.cuhk.edu.hk/teaching_staff/chan-tsang-keung). I am interested in the intersection between astrophysics and fundemental physics, and currently working on <span style="font-weight: bold;">Milky-Way host size dark matter halo substructure simulation for a small scale enhanced primordial power spectrum</span> ([arxiv:2412.16072](https://arxiv.org/abs/2412.16072)).
+I am currently a 2nd year MPhil [student @CUHK Physics](https://newww.phy.cuhk.edu.hk/postgraduate/wu-jianhao), under the supervision of [Prof. Tsang Keung Chan](https://newww.phy.cuhk.edu.hk/teaching_staff/chan-tsang-keung). I am interested in the intersection between astrophysics and fundemental physics, especially using cosmological signals to study fundamental physics problems including early universe, dark matter and dark energy. I am now working on <span style="font-weight: bold;">Milky-Way host size dark matter halo substructure simulation for a small scale enhanced primordial power spectrum</span> ([arxiv:2412.16072](https://arxiv.org/abs/2412.16072)).
 
 I got my Physics MSc degree also [@CUHK](https://www.cuhk.edu.hk) in 2023, with *CUHK MSc in Physics Excellent Performance Award*. It complemented my knowledge gaps as a non-physics student, by covering Quantum Mechanics, Statistical Mechanics, Computational Physics, Cosmology, and etc.
 
