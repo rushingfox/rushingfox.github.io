@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-- For astronomers: [Harvard ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0000-7431-7885&sort=date+desc)
 - For high energy physicsists: [INSPIRE HEP](https://inspirehep.net/authors/2685932)  
 - Generally, [Google Scholar](https://scholar.google.com/citations?user=hxR2VSsAAAAJ&hl=zh-CN&authuser=2), [ORCID](https://orcid.org/0009-0000-7431-7885), and [arXiv list](https://arxiv.org/a/wu_j_12.html) are also available.
 
