@@ -4,6 +4,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+<h2>2025</h2>
+
+<h3><a href="https://indico.cern.ch/event/1454867/">IAS Program on Fundamental Physics (FP 2025)</a></h3>
+- <span style="color: blue;">Oral Presentation</span><span style="color: black;">: Zoom-In Cosmological Simulation for a Small Scale Enhanced Primordial Power Spectrum</span>
+- <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
+
 <h2>2024</h2>
 
 <h3><a href="https://yga2024.scimeeting.cn/en/web/index/21674_">2024 Joint Annual Conference of Physical Societies in Guangdong-HK-Macao Greater Bay Area</a></h3>
