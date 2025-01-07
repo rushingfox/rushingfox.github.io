@@ -29,14 +29,14 @@ Awards and Fellowships
 ======
 * **Best Presentation Award** of CosPA Symposium 2024
   * 2024, given by Asia-Pacific Organization of Cosmology and Particle-Astrophysics
+* CUHK Research Postgraduate Student Grant for Overseas Academic Activities
+  * 2023-2025, given by The Chinese University of Hong Kong
 * Master of Philosophy Postgraduate Studentship (Taken)
   * 2023-2025, given by The Chinese University of Hong Kong
 * CUHK MSc in Physics **Excellent Performance Award** in the academic year 2022-2023
   * 2023, given by The Chinese University of Hong Kong
-* Finland Scholarship (Declined)
+* Finland Scholarship (Merit-based, declined)
   * 2023-2025, given by University of Helsinki
-* University of L'Aquila Master student scholarship (Declined)
-  * 2022, given by University of L'Aquila
 
 Teaching Experiences
 ======
