@@ -11,7 +11,7 @@ author_profile: true
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
 
 <h3><a href="https://sites.google.com/site/ccappastrolunch/ccapp-astroparticle-lunch">OSU CCAPP AstroParticle Lunch</a></h3>
-- <span style="color: blue;">Invited Talk</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span>
+- <span style="color: blue;">Invited Talk</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span> <a href="https://rushingfox.github.io/files/OSU_AstroParticle_Lunch_Jianhao_WU.pptx">See slides here</a>
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
 
 <h3><a href="https://indico.cern.ch/event/1454867/">IAS Program on Fundamental Physics (FP 2025)</a></h3>
