@@ -6,6 +6,10 @@ author_profile: true
 
 <h2>2025</h2>
 
+<h3><a href="https://indico.ihep.ac.cn/event/23146/">The 2nd LHAASO Symposium</a></h3>
+- <span style="color: blue;">Poster Presentation</span><span style="color: black;">: Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</span>
+- <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
+
 <h3><a style="color: black;">CUHK cosmology journal club</a></h3>
 - <span style="color: blue;">Invited Talk</span><span style="color: black;">: Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</span>
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
