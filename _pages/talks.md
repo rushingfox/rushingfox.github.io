@@ -11,7 +11,7 @@ author_profile: true
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
 
 <h3><a style="color: black;">CUHK cosmology journal club</a></h3>
-- <span style="color: blue;">Invited Talk</span><span style="color: black;">: Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</span>
+- <span style="color: blue;">Invited Talk</span><span style="color: black;">: Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</span> <a href="https://rushingfox.github.io/files/CUHK_Cosmology_Journal_Club_Jianhao_WU.pptx">See slides here</a>
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
 
 <h3><a href="https://sites.google.com/site/ccappastrolunch/ccapp-astroparticle-lunch">OSU CCAPP AstroParticle Lunch</a></h3>
