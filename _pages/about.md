@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jianhao WU-Constrain Fundamental Physics with Cosmic Structure"
+title: "Jianhao WU-Study Fundamental Physics with Cosmology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
