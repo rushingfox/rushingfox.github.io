@@ -16,6 +16,12 @@ I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, wh
 
 <br><br><br>
 
+## *Friends*
+
+[Jifeng WU @ UBC](https://jifengwu2k.github.io/)
+
+<br><br><br>
+
 ## *Currently looking for 2025 Fall PhD position in cosmology:*
 
 <h3>Standardized Tests</h3>
