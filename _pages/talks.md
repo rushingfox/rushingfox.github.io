@@ -7,7 +7,7 @@ author_profile: true
 <h2>2025</h2>
 
 <h3><a href="https://indico.ihep.ac.cn/event/23146/">The 2nd LHAASO Symposium</a></h3>
-- <span style="color: blue;">Poster Presentation</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span>
+- <span style="color: blue;">Poster Presentation</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span> <a href="https://rushingfox.github.io/files/2025_LHAASO_conference_poster.pdf">See poster here</a>
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: [arxiv:2412.16072]</a>
 
 <h3><a style="color: black;">CUHK Cosmology Journal Club</a></h3>
