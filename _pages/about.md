@@ -16,23 +16,6 @@ I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, wh
 
 <br><br><br>
 
-## *Currently looking for 2025 Fall PhD position in cosmology:*
-
-<h3>Standardized Tests</h3>
-- GRE Subject Physics **940**/990 (**87%** in percentile)
-- IELTS Academic **7.5**
-<h3>Interested research topics</h3>
-- Structure Formation/Dark Matter Halo/Dark Energy Model
-- Early Universe Cosmology/Inflation
-- ...
-<h3>Preferred research tools</h3> 
-- Numerical
-- Theoretical
-- Data Analysis
-- ...
-
-<br><br><br>
-
 ## *Friends*
 
 [Jifeng WU @ UBC](https://jifengwu2k.github.io/)
