@@ -12,22 +12,32 @@ For the [publications](https://rushingfox.github.io/publications/) and [presenta
 
 Education
 ======
-* Master of Philosophy in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2025 (expected)
-* Master of Science in *Physics*, Department of Physics, The Chinese University of Hong Kong, 2023
-* Bachelor of Engineering in *Computer Science and Technology*, College of Computer Science, Wuhan University, 2022
+* University of Wisconsin–Madison
+  * Doctor of Philosophy in *Physics*, 2030 (expected)
+* The Chinese University of Hong Kong
+  * Master of Philosophy in *Physics*, 2025 (expected)
+  * Master of Science in *Physics*， 2023
+* Wuhan University
+  * Bachelor of Engineering in *Computer Science and Technology*, 2022
 
 Awards and Fellowships
 ======
-* **Best Presentation Award** of CosPA Symposium 2024
+* CUHK Reaching Out Award for Overseas Academic Activities (Declined due to personal schedule change)
+  * 2025, given by The Chinese University of Hong Kong
+* UCR Dean’s Distinguished Award (Declined in favor of PhD Program at Wisconsin-Madison)
+  * 2025, given by University of California, Riverside
+* CosPA 2024 Symposium **Best Presentation Award**
   * 2024, given by Asia-Pacific Organization of Cosmology and Particle-Astrophysics
 * CUHK Research Postgraduate Student Grant for Overseas Academic Activities
-  * 2023-2025, given by The Chinese University of Hong Kong
-* Master of Philosophy Postgraduate Studentship (Taken)
-  * 2023-2025, given by The Chinese University of Hong Kong
+  * 2023, given by The Chinese University of Hong Kong
+* CUHK Research Postgraduate Studentship (Taken as an MPhil student at CUHK during 2023-2025)
+  * 2023, given by The Chinese University of Hong Kong
+* Finland Scholarship for Master Program (Declined in favor of MPhil Program at CUHK)
+  * 2023, given by University of Helsinki & Finland Government
 * CUHK MSc in Physics **Excellent Performance Award** in the academic year 2022-2023
   * 2023, given by The Chinese University of Hong Kong
-* Finland Scholarship (Merit-based, declined)
-  * 2023-2025, given by University of Helsinki
+* University of L'Aquila scholarship for Master Program (Declined in favor of MSc Program at CUHK)
+  * 2022, given by University of L'Aquila
 
 Teaching Experiences
 ======
