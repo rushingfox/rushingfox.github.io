@@ -16,7 +16,7 @@ Education
   * Doctor of Philosophy in *Physics*, 2030 (expected)
 * The Chinese University of Hong Kong
   * Master of Philosophy in *Physics*, 2025 (expected)
-  * Master of Science in *Physics*， 2023
+  * Master of Science in *Physics*, 2023
 * Wuhan University
   * Bachelor of Engineering in *Computer Science and Technology*, 2022
 
