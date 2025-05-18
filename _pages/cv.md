@@ -22,10 +22,10 @@ Education
 
 Awards and Fellowships
 ======
-* CUHK Reaching Out Award for Overseas Academic Activities (Declined due to personal schedule change)
-  * 2025, given by The Chinese University of Hong Kong
 * UCR Dean’s Distinguished Award (Declined in favor of PhD Program at Wisconsin-Madison)
   * 2025, given by University of California, Riverside
+* CUHK Reaching Out Award for Overseas Academic Activities (Declined due to personal schedule change)
+  * 2025, given by The Chinese University of Hong Kong
 * CosPA 2024 Symposium **Best Presentation Award**
   * 2024, given by Asia-Pacific Organization of Cosmology and Particle-Astrophysics
 * CUHK Research Postgraduate Student Grant for Overseas Academic Activities
