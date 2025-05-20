@@ -41,8 +41,8 @@ Awards and Fellowships
 
 Standardized Test
 ======
-* GRE Subject Physics: 940 (87%) 
-* IELTS Academic: 7.5(6.5)
+* GRE Subject Physics: 940 (87%)
+* IELTS Academic: 7.5
 
 Teaching Experiences
 ======
