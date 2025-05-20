@@ -39,6 +39,11 @@ Awards and Fellowships
 * University of L'Aquila scholarship for Master Program (Declined in favor of MSc Program at CUHK)
   * 2022, given by University of L'Aquila
 
+Standardized Test
+======
+* GRE Subject Physics: 940 (87%) 
+* IELTS Academic: 7.5(6.5)
+
 Teaching Experiences
 ======
 * Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2023 Fall
