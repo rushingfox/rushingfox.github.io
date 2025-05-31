@@ -20,11 +20,11 @@ However, while the above websites need time to update, the <strong><span style="
 <h3>Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</h3>
 - <span> <strong><span style="color: blue;">Jianhao Wu</span></strong>, Tsang Keung Chan, Victor J. Forouhar Moreno.</span>
 - <a href="https://arxiv.org/abs/2412.16072">Under review by Physical Review D [arxiv:2412.16072]</a>
-
+- <span style="color: red;">[Third Prize on The 11th Hong Kong University Student Innovation and Entrepreneurship Competition]</span>
 
 ## 2023
 
 <h3>Cosmic-ray electrons and the magnetic field of the North Polar Spur</h3>
 - <span> Guobin Mou, <strong><span style="color: blue;">Jianhao Wu</span></strong>, Yoshiaki Sofue. </span>
 - <a href="https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html">Astronomy & Astrophysics 676, L3, 2023 [arxiv:2212.04306]</a>
-- <span style="color: red;">[Winner of Best Presentation Award on the COSPA Symposium 2024]</span><a href="https://indico.itp.ac.cn/event/198/page/88-photos-downloads-and-announcements"> click here for the awarding photo of mine :)</a>
+- <span style="color: red;">[Best Presentation Award on the COSPA Symposium 2024]</span><a href="https://indico.itp.ac.cn/event/198/page/88-photos-downloads-and-announcements"> click here for the awarding photo of mine :)</a>

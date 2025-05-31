@@ -22,6 +22,8 @@ Education
 
 Awards and Fellowships
 ======
+* **Third Prize** on The 11th Hong Kong University Student Innovation and Entrepreneurship Competition
+  * 2025, given by Hong Kong New Generation Cultural Association
 * UCR Dean’s Distinguished Award (Declined in favor of PhD Program at Wisconsin-Madison)
   * 2025, given by University of California, Riverside
 * CUHK Reaching Out Award for Overseas Academic Activities (Declined due to personal schedule change)
