@@ -19,7 +19,7 @@ However, while the above websites need time to update, the <strong><span style="
 
 <h3>Cosmological Zoom-In Simulations of Milky Way Host Size Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum</h3>
 - <span> <strong><span style="color: blue;">Jianhao Wu</span></strong>, Tsang Keung Chan, Victor J. Forouhar Moreno.</span>
-- <a href="https://doi.org/10.1103/59fw-974t">Physical Review D, 2025 [arxiv:2412.16072]</a>
+- <a href="https://doi.org/10.1103/59fw-974t">Phys. Rev. D 112, 023512 [arxiv:2412.16072]</a>
 - <span style="color: red;">[Third Prize on The 11th Hong Kong University Student Innovation and Entrepreneurship Competition]</span>
 
 ## 2023
