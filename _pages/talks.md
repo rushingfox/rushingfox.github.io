@@ -13,7 +13,7 @@ author_profile: true
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: Phys. Rev. D 112, 023512 [arxiv:2412.16072]</a>
 
 <h3><a href="https://indico.ibs.re.kr/event/871/">International Symposium on Cosmology and Particle Astrophysics: CosPA 2025</a></h3>
-- <span style="color: blue;">Contributed Talk</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span>
+- <span style="color: blue;">Contributed Talk</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span> <a href="https://rushingfox.github.io/files/CosPA25_Jianhao.pptx">See slides here</a>
 - <a href="https://arxiv.org/abs/2412.16072">Based on paper: Phys. Rev. D 112, 023512 [arxiv:2412.16072]</a>
 
 <h3><a href="https://web.gravity.sjtu.edu.cn/event/7/">Expanding the Boundaries of Dark Matter Halo</a></h3>
