@@ -7,7 +7,7 @@ author_profile: true
 <h2>2025</h2>
 
 <h3><a href="https://indico.ipmu.jp/event/458/">Workshop on the Physics and the Mathematics of the Universe (W(I)PMU)</a></h3>
-- <span style="color: blue;">Contributed Talk</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span>
+- <span style="color: blue;">Contributed Talk</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span> <a href="https://rushingfox.github.io/files/WIPMU_Jianhao.pdf">See slides here</a>
 - <a href="https://doi.org/10.1103/59fw-974t">Based on paper: Phys. Rev. D 112 (2025) 023512 [arxiv:2412.16072]</a>
 - <span style="color: blue;">Poster Presentation</span><span style="color: black;">: Can blue-tilted primordial power spectrum save the small scale crisis in MW? -- From the perspective of Zoom-In simulation for MW host size dark matter halo</span> <a href="https://rushingfox.github.io/files/WIPMU_2025_poster.pdf">See poster here</a>
 - <a href="https://doi.org/10.1103/59fw-974t">Based on paper: Phys. Rev. D 112 (2025) 023512 [arxiv:2412.16072]</a>
