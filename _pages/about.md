@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Physics PhD student [@UW-Madison](https://www.wisc.edu/). I am interested in the intersection between astrophysics and fundemental physics, especially using cosmological signals to study fundamental physics problems including early universe, dark matter and dark energy.
+I am a PhD student [@UW-Madison Physics](https://www.physics.wisc.edu/directory/wu-jianhao/). I am interested in the intersection between astrophysics and fundemental physics, especially using cosmological signals to study fundamental physics problems including early universe, dark matter and dark energy.
 
 I got my MPhil in Physics [@CUHK](https://www.cuhk.edu.hk) in 2025, under the supervision of [Prof. Tsang Keung Chan](https://newww.phy.cuhk.edu.hk/teaching_staff/chan-tsang-keung), fully funded by *CUHK Research Postgraduate Studentship* for this research-based master degree. I worked on <span style="font-weight: bold;">Milky-Way host size dark matter halo substructure simulation for a small scale enhanced primordial power spectrum</span> ([Phys. Rev. D 112 (2025) 023512 [arxiv:2412.16072]](https://arxiv.org/abs/2412.16072)) and also some follow-up projects. Prior to that, I got a course-based MSc in Physics degree also [@CUHK](https://www.cuhk.edu.hk) in 2023, with *CUHK MSc in Physics Excellent Performance Award*. It complemented my knowledge gaps as a non-physics student, by excellent teaching and guidance from [Prof. Pak Ming HUI](https://wp.phy.cuhk.edu.hk/teaching_staff/hui-pak-ming) and [Dr. Po Kin LEUNG](https://wp.phy.cuhk.edu.hk/teaching_staff/leung-po-kin).
 
