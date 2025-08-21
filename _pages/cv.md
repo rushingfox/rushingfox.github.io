@@ -52,3 +52,4 @@ Teaching Experiences
 * Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2024 Spring
 * Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2024 Fall
 * Teaching Assistant @ CUHK of UGEB 2411 Astronomy – A Short Introduction, 2025 Spring
+* Teaching Assistant @ Wisc-MD of Physics 202 General Physics, 2025 Fall
