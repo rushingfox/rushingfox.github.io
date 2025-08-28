@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://rushingfox.github.io/files/WIPMU_2025_poster.pdf">Click to download CV</a>
+<a href="https://rushingfox.github.io/files/Jianhao_Wu_s_Professional_Resume.pdf">Click to download CV</a>
