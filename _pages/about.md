@@ -16,6 +16,12 @@ I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, wh
 
 <br><br><br>
 
+## *For students from PHYSICS 202 25Fall*
+
+My office hours are 9am to 9:50am every Wednesday and Friday at Chamberlin Hall 2307. You are welcome!
+
+<br><br><br>
+
 ## *Friends*
 
 [Jifeng WU @ UBC](https://jifengwu2k.github.io/)
