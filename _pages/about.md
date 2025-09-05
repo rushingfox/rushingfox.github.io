@@ -20,7 +20,11 @@ I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, wh
 
 My office hours are 9am to 9:50am every Wednesday and Friday at Chamberlin Hall 2307. You are welcome!
 
-
+The sessions I teach:
+202-305 DIS	305	Wednesday&Friday  09:55 - 10:45	CHAMBERLIN 2112
+202-312 DIS	312	Wednesday&Friday  14:25 - 15:15	CHAMBERLIN 2108
+202-605 LAB	605	Tuesday           16:35 - 19:30	CHAMBERLIN 3314
+202-612 LAB	612	Thursday          16:35 - 19:30	CHAMBERLIN 3314
 
 ## *Friends*
 
