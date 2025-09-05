@@ -14,13 +14,13 @@ I got my MPhil in Physics [@CUHK](https://www.cuhk.edu.hk) in 2025, under the su
 
 I got my Computer Science BEng degree [@WHU](https://en.whu.edu.cn/) in 2022, where I constrained the physical origin of <span style="font-weight: bold;">North Polar Spur, a bright structure on radio band within Milky-Way, by synchrotron radiation calculation</span> ([Astronomy & Astrophysics 676, L3 [arxiv:2212.04306]](https://www.aanda.org/articles/aa/full_html/2023/08/aa45401-22/aa45401-22.html)). With this paper I won the *Best Presentation Award* of the [CosPA 2024](https://indico.itp.ac.cn/event/198/overview) Symposium. My supervisor and co-author was [Prof. Guobin Mou](https://astrowhu.github.io/guobinmou).
 
-<br><br><br>
+
 
 ## *For students from PHYSICS 202 25Fall*
 
 My office hours are 9am to 9:50am every Wednesday and Friday at Chamberlin Hall 2307. You are welcome!
 
-<br><br><br>
+
 
 ## *Friends*
 
